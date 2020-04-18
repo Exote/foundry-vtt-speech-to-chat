@@ -1,0 +1,10 @@
+{
+  "speech-to-chat.enable.name": "Enable Speech to Chat",
+  "speech-to-chat.enable.hint": "Starts listening to the microphone.",
+
+  "speech-to-chat.confirm.name": "Enable Confirmation Box",
+  "speech-to-chat.confirm.hint": "Open a confirmation box for each sentence.",
+
+  "speech-to-chat.language.name": "Language",
+  "speech-to-chat.language.hint": "Speech detection language, see: https://cloud.google.com/speech-to-text/docs/languages for a list."
+}

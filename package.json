@@ -1,0 +1,21 @@
+{
+  "name": "foundry-vtt-speech-to-chat",
+  "version": "0.0.1",
+  "dependencies": {
+    "@babel/runtime": "^7.9.2",
+    "core-js": "^3.6.5",
+    "promise-queue": "^2.2.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development"
+  },
+  "author": "Exote"
+}
