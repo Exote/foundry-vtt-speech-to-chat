@@ -1,6 +1,6 @@
 {
   "name": "foundry-vtt-speech-to-chat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@babel/runtime": "^7.9.2",
     "core-js": "^3.6.5",

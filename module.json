@@ -3,7 +3,7 @@
   "title": "Speech to Chat",
   "description": "A module to convert spoken voice to chat messages.",
   "url": "https://github.com/Exote/foundry-vtt-speech-to-chat",
-  "download": "https://github.com/Exote/foundry-vtt-speech-to-chat/archive/v0.3.7.zip",
+  "download": "https://github.com/Exote/foundry-vtt-speech-to-chat/archive/v0.0.2.zip",
   "manifest": "https://raw.githubusercontent.com/Exote/foundry-vtt-speech-to-chat/master/module.json",
   "author": "Exote (Moe#6034)",
   "languages": [
@@ -13,7 +13,7 @@
       "path": "lang/en.json"
     }
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": ["./dist/js/main.js"],
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.5.5"
